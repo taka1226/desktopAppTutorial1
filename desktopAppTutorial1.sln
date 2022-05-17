@@ -5,6 +5,11 @@ VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "desktopAppTutorial1", "desktopAppTutorial1\desktopAppTutorial1.vcxproj", "{8792E8BE-3E4E-49B8-B1FF-A64F083D9F65}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目", "ソリューション項目", "{730CAD6E-4B97-4AC6-BCA7-27F20B3DD795}"
+	ProjectSection(SolutionItems) = preProject
+		memo.md = memo.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
